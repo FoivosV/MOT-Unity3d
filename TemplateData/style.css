@@ -16,6 +16,6 @@
 .webgl-content .footer .webgl-logo {background-image: url('webgl-logo.png'); width: 204px; float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
-body{background-color: #6699ff;}
+body{background-color: #5a5d64;}
 h1{left:50%; right:50%; text-align: center;color: silver;}
 p{padding-right: 20%;padding-left: 20%; padding-bottom:2%;font-size: large; color: silver;}
