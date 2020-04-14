@@ -17,5 +17,5 @@
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
 body{background-color: powderblue;}
-h1{margin-right: -50%;}
-p{margin-right: -50%;padding-bottom:2%;font-size: large;}
+h1{padding-right: 50%;}
+p{padding-right: 20%;padding-bottom:2%;font-size: large;}
